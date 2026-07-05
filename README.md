@@ -1,8 +1,8 @@
 # Hey, I'm Sriram Deevi, but I generally go by Sri :)
-<p align = "center" > 
+
 I'm currently an Aerospace Engineering Student, at A&M, who likes to code
-</p>
-<p align="center">
+
+<p align="left">
   <a href="http://bit.ly/4kGRKkE" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=for-the-badge&logo=nasa&logoColor=white" alt="Website" />
   </a>
