@@ -3,9 +3,6 @@
 <p align="center">
   <a href="http://bit.ly/4kGRKkE" target="_blank">
     <img src="https://img.shields.io/badge/Maker%20Portfolio-0078D4?style=for-the-badge&logo=probot&logoColor=white" alt="Website" />
-  </a>
-</p>
-<p align= "center">
   <img src="https://img.shields.io/badge/Texas%20A%26M%20Class%20of%20%2727-500000?style=for-the-badge" alt="Texas A&M Class of 27" />
 </p>
 
