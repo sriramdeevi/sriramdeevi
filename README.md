@@ -1,12 +1,11 @@
-## Sriram [SRI] Deevi
 
-# Hi there, I'm Sriram [SRI] Deevi!
-Aerospace Engineering Student & Flight Simulation Software Engineer
+# Hiya! I'm Sriram [SRI] Deevi!
+I'm currently an Aerospace Engineering Student, at A&M, who likes to code :)
 
 ---
 
-### 🚀 About Me
-- 🛠️ Currently working as a Software Engineer at Bell Flight (Flight Simulation Center)
+### About Me
+- 🛠️ Currently working as a Software Engineering intern at Bell Flight (Flight Simulation Center)
 - 🖥️ Building custom GUIs, flight telemetry interfaces, and graphics rendering tools
 - ✈️ Interested in aerospace simulation, avionics, and flight dynamics
 - 🎯 Constantly grinding LeetCode to level up my data structures and algorithms game
