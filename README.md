@@ -3,7 +3,7 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code
 
 <p align="center">
   <a href="http://bit.ly/4kGRKkE" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=for-the-badge&logo=nasa&logoColor=white" alt="Website" />
   </a>
 </p>
 
@@ -34,10 +34,6 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
