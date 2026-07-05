@@ -1,18 +1,17 @@
 
-# Hiya! I'm Sriram [SRI] Deevi!
+# Hey, my name is Sriram Deevi, but I generally go by Sri
 I'm currently an Aerospace Engineering Student, at A&M, who likes to code :)
 
 ---
 
 ### About Me
-- 🛠️ Currently working as a Software Engineering intern at Bell Flight (Flight Simulation Center)
-- 🖥️ Building custom GUIs, flight telemetry interfaces, and graphics rendering tools
-- ✈️ Interested in aerospace simulation, avionics, and flight dynamics
-- 🎯 Constantly grinding LeetCode to level up my data structures and algorithms game
+- Currently working as a Aerospace Engineering intern at Bell Flight's Flight Simulation Center
+- Previously a Systems Engineering intern at Honeywell Aerospace
+- Interested in aerospace simulation, avionics, and flight dynamics
 
 ---
 
-### 💻 My Tech Stack
+### Skills
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -23,7 +22,7 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code :)
 
 ---
 
-### 📊 My GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
