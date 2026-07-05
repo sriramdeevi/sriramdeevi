@@ -36,9 +36,6 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code with..
 ---
 
 
-
----
-
 ### GitHub Stats
 
 
