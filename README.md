@@ -7,7 +7,7 @@
 </p>
 
 <p align= "center"> 
-I'm currently an Aerospace Engineering Student, at A&M, who likes to code
+I'm currently an Aerospace Engineering Student, at A&M, who likes to code with...
 </p>
     
 <p align="center">
