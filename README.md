@@ -12,7 +12,7 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code
 ---
 
 ### Skills
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Framework" />
@@ -26,6 +26,6 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code
 
 
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
