@@ -1,5 +1,5 @@
 
-# Hey, my name is Sriram Deevi, but I generally go by Sri
+# Hey, I'm Sriram Deevi, but I generally go by Sri
 I'm currently an Aerospace Engineering Student, at A&M, who likes to code :)
 
 ---
