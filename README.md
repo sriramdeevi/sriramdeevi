@@ -1,6 +1,6 @@
 
-# Hey, I'm Sriram Deevi, but I generally go by Sri
-I'm currently an Aerospace Engineering Student, at A&M, who likes to code :)
+# Hey, I'm Sriram Deevi, but I generally go by Sri :)
+I'm currently an Aerospace Engineering Student, at A&M, who likes to code
 
 ---
 
@@ -24,11 +24,7 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code :)
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
