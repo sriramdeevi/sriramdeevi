@@ -5,19 +5,6 @@
     <img src="https://img.shields.io/badge/Maker%20Portfolio-0078D4?style=for-the-badge&logo=probot&logoColor=white" alt="Website" />
   <img src="https://img.shields.io/badge/Texas%20A%26M%20Class%20of%20%2727-500000?style=for-the-badge" alt="Texas A&M Class of 27" />
 </p>
-<p align= "center"> 
-I'm currently an Aerospace Engineering Student, at A&M, who likes to code
-</p>
-
-
----
-
-### About Me
-- Currently working as a Aerospace Engineering intern at Bell Flight's Flight Simulation Center
-- Previously a Systems Engineering intern at Honeywell Aerospace
-- Interested in aerospace simulation, avionics, and flight dynamics
-
----
 
 ### Skills
 <p align="center">
@@ -32,6 +19,23 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </p>
+
+    
+<p align= "center"> 
+I'm currently an Aerospace Engineering Student, at A&M, who likes to code
+</p>
+
+
+---
+
+### About Me
+- Currently working as a Aerospace Engineering intern at Bell Flight's Flight Simulation Center
+- Previously a Systems Engineering intern at Honeywell Aerospace
+- Interested in aerospace simulation, avionics, and flight dynamics
+
+---
+
+
 
 ---
 
