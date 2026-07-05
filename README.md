@@ -5,6 +5,11 @@
     <img src="https://img.shields.io/badge/Maker%20Portfolio-0078D4?style=for-the-badge&logo=probot&logoColor=white" alt="Website" />
   <img src="https://img.shields.io/badge/Texas%20A%26M%20Class%20of%20%2727-500000?style=for-the-badge" alt="Texas A&M Class of 27" />
 </p>
+
+<p align= "center"> 
+I'm currently an Aerospace Engineering Student, at A&M, who likes to code
+</p>
+    
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -18,9 +23,7 @@
 </p>
 
     
-<p align= "center"> 
-I'm currently an Aerospace Engineering Student, at A&M, who likes to code
-</p>
+
 
 
 ---
