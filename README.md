@@ -1,6 +1,6 @@
-## Hi there 👋
+## Sriram [SRI] Deevi
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sriram [SRI] Deevi!
 Aerospace Engineering Student & Flight Simulation Software Engineer
 
 ---
