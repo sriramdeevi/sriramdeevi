@@ -2,8 +2,9 @@
 
 <p align="left">
   <a href="http://bit.ly/4kGRKkE" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=for-the-badge&logo=nasa&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Maker%20Portfolio-0078D4?style=for-the-badge&logo=nasa&logoColor=white" alt="Website" />
   </a>
+  <img src="https://img.shields.io/badge/Texas%20A%26M%20Class%20of%20%2727-500000?style=for-the-badge" alt="Texas A&M Class of 27" />
 </p>
 
 I'm currently an Aerospace Engineering Student, at A&M, who likes to code
