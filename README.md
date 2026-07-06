@@ -1,18 +1,20 @@
 # Hey, I'm Sriram Deevi, but I generally go by Sri :)
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Bell%20Flight-000000?style=for-the-badge" alt="Bell Flight Intern" />
-  <a href="http://bit.ly/4kGRKkE" target="_blank">
-    <img src="https://img.shields.io/badge/Maker%20Portfolio-0078D4?style=for-the-badge&logo=probot&logoColor=white" alt="Website" />
-  </a>
+ 
   <img src="https://img.shields.io/badge/Texas%20A%26M%20Class%20of%20%2727-500000?style=for-the-badge" alt="Texas A&M Class of '27" />
   <br />
+  <img src="https://img.shields.io/badge/Honeywell%20Aerospace-E11B22?style=for-the-badge&logo=honeywell&logoColor=white" alt="Honeywell Aerospace Intern" />
   
   
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Honeywell%20Aerospace-E11B22?style=for-the-badge&logo=honeywell&logoColor=white" alt="Honeywell Aerospace Intern" />
+   <a href="http://bit.ly/4kGRKkE" target="_blank">
+    <img src="https://img.shields.io/badge/Maker%20Portfolio-0078D4?style=for-the-badge&logo=probot&logoColor=white" alt="Website" />
+  </a>
+
 </p>
 
 <p align= "center"> 
