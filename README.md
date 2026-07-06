@@ -1,6 +1,6 @@
 # Hey, I'm Sriram Deevi, but I generally go by Sri :)
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Bell%20Flight-000000?style=for-the-badge" alt="Bell Flight Intern" />
   <a href="http://bit.ly/4kGRKkE" target="_blank">
     <img src="https://img.shields.io/badge/Maker%20Portfolio-0078D4?style=for-the-badge&logo=probot&logoColor=white" alt="Website" />
