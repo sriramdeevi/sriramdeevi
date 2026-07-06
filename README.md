@@ -7,8 +7,12 @@
   </a>
   <img src="https://img.shields.io/badge/Texas%20A%26M%20Class%20of%20%2727-500000?style=for-the-badge" alt="Texas A&M Class of '27" />
   <br />
-  <img src="https://img.shields.io/badge/Honeywell%20Aerospace-E11B22?style=for-the-badge&logo=honeywell&logoColor=white" alt="Honeywell Aerospace Intern" />
   
+  
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Honeywell%20Aerospace-E11B22?style=for-the-badge&logo=honeywell&logoColor=white" alt="Honeywell Aerospace Intern" />
 </p>
 
 <p align= "center"> 
