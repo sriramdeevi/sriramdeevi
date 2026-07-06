@@ -30,7 +30,7 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code with..
 
 ### About Me
 - Currently working as a Aerospace Engineering intern at Bell Flight's Flight Simulation Center
-- Previously a Systems Engineering intern at Honeywell Aerospace
+- Previously a Systems Engineering intern at Honeywell Aerospace's Flight Controls
 - Interested in aerospace simulation, avionics, and flight dynamics
 
 ---
