@@ -1,6 +1,6 @@
-<p align="center">
+
 # Hey, I'm Sriram Deevi, but I generally go by Sri :)
-</p>
+
 <p align="center">
   <a href="http://bit.ly/4kGRKkE" target="_blank">
     <img src="https://img.shields.io/badge/Maker%20Portfolio-0078D4?style=for-the-badge&logo=probot&logoColor=white" alt="Website" />
@@ -40,9 +40,9 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code with..
 
 ---
 
-<p align="center">
+
 ### GitHub Stats
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sriramdeevi&theme=tokyonight" alt="GitHub Streak" /> 
