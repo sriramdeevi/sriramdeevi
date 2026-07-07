@@ -44,5 +44,5 @@ I'm currently an Aerospace Engineering Student, at A&M, who likes to code with..
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramdeevi&theme=tokyonight" alt="GitHub Streak" /> 
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sriramdeevi&theme=tokyonight" alt="GitHub Streak" /> 
 </p>
